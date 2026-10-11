@@ -8,7 +8,7 @@
 ---
 
 - 📍 Based in **Galle, Southern Province, Sri Lanka**
-- 🔭 I’m currently working on **Full-Stack Development, IoT, and Machine Learning systems**
+- 🔭 I’m currently working on **Full-Stack Development, and Machine Learning systems**
 - 🌱 I’m currently expanding my knowledge in **AI/ML workflows, Cloud architecture, and Cyber Security**
 - 💬 Ask me about **React, Vue, Node.js, Spring Boot, C++, and Web Development**
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/dasuni-senanayake-03286a312)
@@ -84,3 +84,9 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
   </a>
 </p>
+
+### 📊 GitHub Stats & Top Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
+</
