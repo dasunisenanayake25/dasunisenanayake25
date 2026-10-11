@@ -84,9 +84,3 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
   </a>
 </p>
-
-### 📊 GitHub Stats & Top Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dasuni-Senanayake&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dasuni-Senanayake&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
-</p>
