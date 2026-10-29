@@ -15,7 +15,7 @@
 
 ---
 
-<img align="right" src="./assets/website_design.svg" alt="coding animation" width="380"/>
+<img align="right" src="./assets/developer.svg" alt="coding animation" width="340"/>
 
 - 📍 Based in **Galle, Southern Province, Sri Lanka**
 - 🔭 I’m currently working on **Full-Stack Development, and Machine Learning systems**
