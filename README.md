@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9C27B0,50:5C4BC4,100:00BFA5&height=180&section=header&animation=fadeIn" width="100%" alt="header"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Dasuni Senanayake</h1>
 
 <p align="center">
@@ -5,7 +9,13 @@
   IEEE Student Member • Passionate about technology, innovation, and building scalable full-stack applications.
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Computer+Engineering+Undergraduate;AI+%26+ML+Enthusiast;Network+%26+Cyber+Security+Enthusiast;Full-Stack+Developer" alt="Typing SVG" />
+</p>
+
 ---
+
+<img align="right" src="./assets/coding.gif" alt="coding animation" width="250"/>
 
 - 📍 Based in **Galle, Southern Province, Sri Lanka**
 - 🔭 I’m currently working on **Full-Stack Development, and Machine Learning systems**
@@ -83,4 +93,8 @@
   <a href="https://figma.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
   </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFA5,50:5C4BC4,100:9C27B0&height=120&section=footer" width="100%" alt="footer"/>
 </p>
