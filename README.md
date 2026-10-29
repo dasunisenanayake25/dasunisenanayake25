@@ -13,6 +13,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Computer+Engineering+Undergraduate;AI+%26+ML+Enthusiast;Network+%26+Cyber+Security+Enthusiast;Full-Stack+Developer" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dasunisenanayake25&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
+  <a href="https://github.com/dasunisenanayake25?tab=followers"><img src="https://img.shields.io/github/followers/dasunisenanayake25?label=Followers&style=for-the-badge&color=0e75b6" alt="followers"/></a>
+  <a href="https://github.com/dasunisenanayake25?tab=repositories"><img src="https://img.shields.io/badge/Repos-Check%20them%20out-00C9FF?style=for-the-badge" alt="repos"/></a>
+</p>
+
 ---
 
 <img align="right" src="./assets/developer.svg" alt="coding animation" width="340"/>
@@ -28,6 +34,9 @@
   <a href="https://www.linkedin.com/in/dasuni-senanayake-03286a312" target="_blank" rel="noreferrer">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
+  <a href="https://github.com/dasunisenanayake25" target="_blank" rel="noreferrer">
+    <img align="center" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="28" />
+  </a>
 </p>
 
 ---
@@ -93,6 +102,41 @@
   <a href="https://figma.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
   </a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dasunisenanayake25&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="165" alt="stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dasunisenanayake25&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="165" alt="top languages"/>
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=dasunisenanayake25&theme=tokyonight&hide_border=true&background=0d1117" alt="streak"/>
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dasunisenanayake25&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=6" alt="trophies"/>
+</p>
+
+---
+
+### 🐍 Contribution Snake
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dasunisenanayake25/dasunisenanayake25/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dasunisenanayake25/dasunisenanayake25/output/github-contribution-grid-snake.svg"/>
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/dasunisenanayake25/dasunisenanayake25/output/github-contribution-grid-snake-dark.svg"/>
+  </picture>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote"/>
 </p>
 
 <p align="center">
