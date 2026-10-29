@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6FD8,100:3813C2&height=180&section=header&animation=fadeIn" width="100%" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C9FF&height=180&section=header&animation=fadeIn" width="100%" alt="header"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Dasuni Senanayake</h1>
