@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C9FF&height=180&section=header&animation=fadeIn" width="100%" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9C27B0,50:5C4BC4,100:00BFA5&height=180&section=header&animation=fadeIn" width="100%" alt="header"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Dasuni Senanayake</h1>
@@ -15,7 +15,7 @@
 
 ---
 
-<img align="right" src="./assets/developer.gif" alt="coding animation" width="150"/>
+<img align="right" src="./assets/website_design.svg" alt="coding animation" width="380"/>
 
 - 📍 Based in **Galle, Southern Province, Sri Lanka**
 - 🔭 I’m currently working on **Full-Stack Development, and Machine Learning systems**
@@ -96,5 +96,5 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:2C5364,100:0F2027&height=120&section=footer" width="100%" alt="footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFA5,50:5C4BC4,100:9C27B0&height=120&section=footer" width="100%" alt="footer"/>
 </p>
